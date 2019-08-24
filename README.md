@@ -8,3 +8,4 @@ articles and slides
 
 ## slides
 - [2019.06 [kubecon shanghai] How We Use Jenkins in WeiDai ?](slides/2019/2019-06-kubecon-shanghai/How-We-Use-Jenkins-in-WeiDai-%3F.pdf)
+- [2019.08 [hanngzhou] SonarQube MyBatis Plugin 1.0.0](slides/2019/2019-08-hanngzhou/SonarQube-MyBatis-Plugin-1.0.0.pdf)
